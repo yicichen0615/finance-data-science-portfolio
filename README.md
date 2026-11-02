@@ -1,5 +1,5 @@
-# 陈奕词 | 金融与数据科学项目作品集
-Yici Chen — Finance & Data Science Portfolio
+# 金融与数据科学项目作品集
+Finance & Data Science Portfolio
 
 课程项目涵盖投资组合优化、跨市场策略研究、客户分群与深度学习。团队项目按团队成果展示，不代表全部由本人独立完成。
 
